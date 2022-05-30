@@ -1,0 +1,18 @@
+pdxmesh = {
+	name = "female_fangs_hybrid_mesh"
+	file = "female_fangs_hybrid.mesh"
+
+	meshsettings = {
+		name = "female_hybrid_teethShape"
+		index = 0
+		texture_diffuse = "male_teeth_diffuse.dds"
+		texture_normal = "male_teeth_normal.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+entity = {
+	name = "female_teeth_fangs_hybrid_entity"
+	pdxmesh = "female_fangs_hybrid_mesh"
+}

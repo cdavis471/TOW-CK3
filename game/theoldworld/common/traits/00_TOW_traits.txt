@@ -1,0 +1,133 @@
+#Vampires
+vampire = {
+    index = 1000
+    immortal = yes
+    can_have_children = no
+    health = 15
+}
+
+ripper = {
+    index = 1001
+    diplomacy = -5
+    intrigue = -5
+}
+
+original = {
+    index = 1002
+    immortal = yes
+    can_have_children = no
+    health = 15
+}
+
+cursed = {
+    index = 1003
+}
+
+#Werewolves
+werewolf_untriggered = {
+    index = 1004
+    genetic = yes
+    inherit_chance = 100
+}
+
+werewolf_triggered = {
+    index = 1005
+    health = 3
+}
+
+#Witches
+witch = {
+    index = 1006
+    opposites = {
+        traveler
+        siphoner
+    }
+    genetic = yes
+    inherit_chance = 100
+    random_creation = 0.1
+}
+
+traveler = {
+    index = 1007
+    opposites = {
+        witch
+        siphoner
+    }
+    genetic = yes
+    inherit_chance = 100
+    random_creation = 0.01
+}
+
+siphoner = {
+    index = 1008
+    opposites = {
+        witch
+        traveler
+    }
+    random_creation = 0.001
+}
+
+#Immortal
+immortal = {
+    index = 1009
+    immortal = yes
+    health = 10
+}
+
+doppelganger = {
+    index = 1010
+}
+
+#Hybrids
+vampire_werewolf = {
+    index = 1011
+}
+
+vampire_witch = {
+    index = 1012
+}
+
+werewolf_witch = {
+    index = 1013
+}
+
+#Humans
+brotherhood_of_the_five = {
+    index = 1014
+}
+
+hunter_supernatural = {
+    index = 1015
+}
+
+psychic = {
+    index = 1016
+}
+
+#Items
+amulet_daylight = {
+    index = 1017
+}
+
+amulet_moonlight = {
+    index = 1018
+}
+
+grimoire = {
+    index = 1019
+}
+
+the_cure = {
+    index = 1020
+}
+
+white_oak_stake = {
+    index = 1021
+}
+
+vervain = {
+    index = 1022
+}
+
+#Added Content
+#TBC
