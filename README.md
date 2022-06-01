@@ -19,5 +19,3 @@ https://user-images.githubusercontent.com/72232634/171426674-cff60a39-0b95-441a-
 ![Image 2](preview/image-2.png)
 
 ![Image 3](preview/image-3.png)
-
-![Image 4](preview/image-4.png)
