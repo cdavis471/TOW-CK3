@@ -9,7 +9,7 @@ The Old World is a modification for Crusader Kings III, a grand strategy game se
 - Live in a world of the supernatural
 - Discover new events, traits, decisions, cultures and more
 - As a witch, follow your destiny as a servant of nature or feed your own ambitions, perform your own magic and write a grimoire to leave to your descendants
-- As a vampire, live forever as an Immortal, watch your power increase as you age, sire others them into your family and be a force to reckon with on a battlefield
+- As a vampire, live forever as an immortal, watch your power increase as you age, sire others them into your family and be a force to be reckoned with on a battlefield
 - As a werewolf, beware what activates the curse and stay together to increase your strength through numbers
 - As well as more supernatural species
 - More to be discovered as you play
